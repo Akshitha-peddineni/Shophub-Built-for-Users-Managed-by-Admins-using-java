@@ -1,0 +1,2 @@
+# Shophub-Built-for-Users-Managed-by-Admins-using-java
+"Shophub" is designed to offer an e-commerce solution using Java, JDBC, and Bootstrap. It allows users to browse and purchase products online, also providing admins with the ability to manage products, categories, and users. The project implements Generic Servlets in Java, offering both a user-friendly experience and robust backend functionalities.
